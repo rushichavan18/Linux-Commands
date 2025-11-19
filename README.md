@@ -125,4 +125,3 @@ When you **see a command**, this file tells you **what it does**, **why you use 
 
 ---
 
-If you want this exact file updated with more commands, examples, or turned into a downloadable `README.md`, tell me which additions you want.
